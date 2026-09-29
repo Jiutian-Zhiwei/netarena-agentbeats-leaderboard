@@ -1,7 +1,7 @@
 {
   manifest_version: "0.1.0",
   program: {
-    image: "ghcr.io/jiutian-zhiwei/netarena-malt-purple:v3",
+    image: "ghcr.io/jiutian-zhiwei/netarena-malt-purple:v4",
     entrypoint: [
       "python",
       "minimal_a2a_server.py",
